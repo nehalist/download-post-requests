@@ -1,0 +1,6 @@
+{
+    "name": "nehalist/download-post-server",
+    "require": {
+        "setasign/fpdf": "^1.8"
+    }
+}
